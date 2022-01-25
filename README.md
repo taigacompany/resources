@@ -1,0 +1,2 @@
+# resources
+SVG files
